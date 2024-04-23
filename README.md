@@ -33,7 +33,7 @@ Google hacking, also known as Google dorking, is a technique that involves using
 site: This operator allows you to search for pages that are within a specific website or domain. For example, "site:example.com" would search for pages that are on the example.com domain.Following searches for all the sites that is in the domain yahoo.com
 ## output:
 ![Screenshot 2024-04-17 180117](https://github.com/Gajalakshmivelmurugan/Enumeration/assets/144871940/db7ca857-6edf-4de6-bd81-b3ba5615d03b)
-filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.Following searches for pdf file in the domain yahoo.com##
+filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.Following searches for pdf file in the domain yahoo.com
 ## output:
 ![Screenshot 2024-04-17 180130](https://github.com/Gajalakshmivelmurugan/Enumeration/assets/144871940/7a710115-52e0-4880-862a-ec9fc92ff1e9)
 
